@@ -1,6 +1,6 @@
 function Customers(){
     return( <div>
-    this is an Customers Component
+    this is an Customer Component
     </div>
     )
 };
